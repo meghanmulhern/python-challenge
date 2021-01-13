@@ -1,0 +1,24 @@
+Last login: Wed Jan  6 22:29:05 on ttys000
+(base) meghanmulhern@Meghans-MacBook-Air ~ % cd NU_bootcamp 
+(base) meghanmulhern@Meghans-MacBook-Air NU_bootcamp % cd git
+(base) meghanmulhern@Meghans-MacBook-Air git % cd python-challenge 
+(base) meghanmulhern@Meghans-MacBook-Air python-challenge % cd PyPoll 
+(base) meghanmulhern@Meghans-MacBook-Air PyPoll % python main.py 
+Election results
+--------------------------------
+ Total votes: 3521001
+---------------------------------
+Khan, 2218231 , 63.000%
+Correy, 704200 , 20.000%
+Li, 492940 , 14.000%
+O'Tooley, 105630 , 3.000%
+------------------------------
+ Winner: Khan
+------------------------------
+(base) meghanmulhern@Meghans-MacBook-Air PyPoll % 
+
+
+
+
+
+
